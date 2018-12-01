@@ -18,3 +18,6 @@ Paths:
 WordPress Theme: xampp\htdocs\wordpress\wp-content\themes\customtheme
 
 Login\Registration\Index(Homepage): xampp\htdocs\wordpress\userdb
+
+Also assumes a functioning WordPress framework
+
